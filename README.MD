@@ -1,4 +1,127 @@
-WealthSense - Indian Portfolio Management & AI Intelligence Platform
+# 📈 WealthSense
+
+An AI-powered stock and cryptocurrency portfolio management platform that helps users monitor investments, analyze market trends, and make smarter financial decisions through real-time insights, interactive dashboards, and intelligent analytics.
+
+---
+
+# ✨ Features
+
+- 📈 Real-Time Stock Market Dashboard
+- 🪙 Cryptocurrency Tracking
+- 🤖 AI-Powered Investment Insights
+- 📊 Interactive Charts & Analytics
+- 💼 Portfolio Management
+- 🔐 Secure User Authentication
+- 📱 Fully Responsive UI
+- 🌙 Modern Dark Theme
+- ⚡ Fast and Interactive User Experience
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- GSAP
+
+## Backend
+- FastAPI / Node.js *(Update this based on your project)*
+
+## Database
+- SQLite *(Update if different)*
+
+---
+
+# 🚀 Key Modules
+
+- 📊 Dashboard
+- 📈 Stock Market Analysis
+- 🪙 Cryptocurrency Analysis
+- 💼 Portfolio Tracking
+- 🔍 Market Insights
+- 👤 User Authentication
+- ⚙ Settings
+
+---
+
+# 📂 Project Structure
+
+```
+WealthSense/
+│
+├── frontend/
+├── backend/
+├── assets/
+├── docs/
+├── README.md
+├── LICENSE
+└── .gitignore
+```
+
+---
+
+# 🚀 Installation
+
+## Clone the Repository
+
+```bash
+git clone https://github.com/Pragathi-Tarase/Wealthsense-.git
+```
+
+## Install Dependencies
+
+```bash
+npm install
+```
+
+## Run Development Server
+
+```bash
+npm run dev
+```
+
+---
+
+# 📸 Screenshots
+
+Project screenshots will be added soon.
+
+---
+
+# 🎯 Future Enhancements
+
+- AI Stock Prediction
+- News Sentiment Analysis
+- Portfolio Risk Assessment
+- Personalized Investment Recommendations
+- Mobile Application
+- Multi-language Support
+
+---
+
+# 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+# 👩‍💻 Author
+
+**Pragathi Tarase**
+
+Computer Science Undergraduate
+
+Full Stack Developer | AI & Machine Learning Enthusiast
+
+📧 Email: tarasepragathi@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/pragathi-tarase
+
+🌐 Portfolio: https://personal-portfolio-rho-nine-98.vercel.appWealthSense - Indian Portfolio Management & AI Intelligence Platform
 WealthSense is a premium, single-page application (SPA) designed for the modern Indian investor. It provides real-time market insights, unified portfolio tracking, and AI-driven financial analysis using a robust FastAPI backend and a high-performance Vanilla JS/CSS frontend.
 
 🚀 Key Features
